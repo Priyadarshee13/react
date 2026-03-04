@@ -1,6 +1,6 @@
 import React from 'react'
 
-function card() {
+function Card() {
   return (
     <div
       className="flex flex-col rounded-xl  p-4"
@@ -34,4 +34,4 @@ function card() {
   )
 }
 
-export default card
+export default Card
